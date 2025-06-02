@@ -6,11 +6,12 @@ Este projeto é uma análise de dados de um e-commerce fictício (AluraStore) ut
 - Carregamento e limpeza de dados
 - Análise exploratória (EDA)
 - Cálculo de métricas de negócios
+- Gráficos interativos
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python** (Pandas)
 - **Jupyter Notebook**
-- **Visualização**: Matplotlib
+- **Visualização**: Matplotlib, Plotly
 
 ## 📊 Principais Análises
 1. Faturamento total em cada loja
